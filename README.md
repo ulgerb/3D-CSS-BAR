@@ -11,6 +11,9 @@ You can give any width, height you want.
 
 
 - coming soon...
+- 3D mouse events
+- creating 3d objects 
+
 <details open>
   <video src = "https://user-images.githubusercontent.com/98836519/179141033-8ac226ee-46b8-4e6f-ade4-0179f128632b.mp4" >
 </details>
